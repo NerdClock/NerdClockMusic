@@ -1,4 +1,4 @@
-package ch.nerdclock.app;
+package ch.nerdclock;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;

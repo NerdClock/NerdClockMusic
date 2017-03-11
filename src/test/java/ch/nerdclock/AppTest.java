@@ -1,4 +1,4 @@
-package ch.nerdclock.app;
+package ch.nerdclock;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

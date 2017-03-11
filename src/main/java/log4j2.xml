@@ -14,7 +14,7 @@
    <Loggers>
     	<Root level="debug">
     	</Root>
-        <Logger name="ch.nerdclock.app" level="all" additivity="false">
+        <Logger name="ch.nerdclock" level="all" additivity="false">
             <appender-ref ref="file-log" level="all"/>
             <appender-ref ref="STDOUT" level="info"/>
         </Logger>
